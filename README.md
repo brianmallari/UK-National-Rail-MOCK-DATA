@@ -1,0 +1,1 @@
+This project includes some exploratory analysis and dashboarding of mock train ticket sales related to the UK National Rail for departures from January 2024 to April 2024 inclusive using different technologies.
